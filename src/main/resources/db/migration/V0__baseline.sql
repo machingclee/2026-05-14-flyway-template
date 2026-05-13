@@ -1,0 +1,6 @@
+-- V0__baseline.sql
+-- This script is used as the Flyway baseline for existing databases.
+-- It does NOT create any tables — it marks the starting point.
+-- Run with: flyway baseline
+--
+-- For NEW databases, delete this file and start with V1__*.sql scripts instead.
